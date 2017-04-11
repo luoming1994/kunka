@@ -42,7 +42,7 @@ timezone:      null
 title: Jekyll Theme
 description: Just another Jekyll theme design and code by zhanxin.info.
 keywords: Jekyll Theme
-url: http://pizn.github.io/kunka
+url: /main
 feed: /atom.xml
 favicon: http://jekyllrb.com/favicon.png
 
@@ -111,8 +111,8 @@ googleAnaly:
 #comment config
 disqus:
   config: false
-  id: piznblog
+  id: luoming1994
 
 duoshuo:
   config: true
-  id: zhanxin
+  id: luoming1994
